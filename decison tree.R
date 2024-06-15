@@ -162,7 +162,7 @@ fit<- rpart(Payment.Status ~., data=train, method="class")
 rpart.plot(fit, tweak =1.5)
 
 
-#randomforest
+
 
 
 
